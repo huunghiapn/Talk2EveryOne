@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "544444216893",
+    "firebase_url": "https://talk2e1-165307.firebaseio.com",
+    "project_id": "talk2e1-165307",
+    "storage_bucket": "talk2e1-165307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544444216893:android:ac8cbe4334b20469",
+        "android_client_info": {
+          "package_name": "com.nghianguyenit.talk2everyone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544444216893-vm1kmt4n13dlcc2i15u8s894ia9jgm0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nghianguyenit.talk2everyone",
+            "certificate_hash": "608a4477306963d10e2f54e0f82b66039a102ac3"
+          }
+        },
+        {
+          "client_id": "544444216893-40p6df3gmhap5p8pau3sh6n5hs23nkoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEM4G8rWJhixngO9Yxia9trJDOt6xwYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544444216893-40p6df3gmhap5p8pau3sh6n5hs23nkoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544444216893:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544444216893-40p6df3gmhap5p8pau3sh6n5hs23nkoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEM4G8rWJhixngO9Yxia9trJDOt6xwYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544444216893:android:2e12ec274ef4fa6e",
+        "android_client_info": {
+          "package_name": "com.nghianguyenit.talk2everyone.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544444216893-85mfe0ha7qa9mddoo4i64rf6tlkkaaar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nghianguyenit.talk2everyone.dev",
+            "certificate_hash": "608a4477306963d10e2f54e0f82b66039a102ac3"
+          }
+        },
+        {
+          "client_id": "544444216893-40p6df3gmhap5p8pau3sh6n5hs23nkoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEM4G8rWJhixngO9Yxia9trJDOt6xwYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544444216893-40p6df3gmhap5p8pau3sh6n5hs23nkoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="update_lib_network_not_available">The current network is not available</string>
+    <string name="update_lib_download_finish">Download completed</string>
+    <string name="update_lib_download_cancel">Canceled update</string>
+    <string name="update_lib_download_in_background">Running in the background update</string>
+    <string name="update_lib_default_toast">The current version is up to date</string>
+    <string name="update_lib_update_content">Update content: </string>
+    <string name="update_lib_version_code">Version: </string>
+    <string name="update_lib_download_failed">Download failed</string>
+
+</resources>

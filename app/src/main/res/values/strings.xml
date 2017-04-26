@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_share_link" translatable="false">http://goo.gl/6Cz03C</string>
+    <string-array name="api_array">
+        <item>Bing</item>
+        <item>Google</item>
+        <item>Yandex</item>
+    </string-array>
+
+
+    <string name="app_name">Talk2EveryOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="googleapp_missing_alert">We need Google app to recognizes your voice, please install it !</string>
+    <string name="tap_on_mic">Tap to start</string>
+    <string name="dialog_loading_message">Loading...</string>
+    <string name="translating_message">Translating...</string>
+    <string name="hello_message">Xin chào</string>
+    <string name="no_network_message">No internet connection. Please turn on wifi or 3/4G !</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="ads">Watch ads videos to support us</string>
+    <string name="license">License</string>
+    <string name="version">Version</string>
+    <string name="about">About</string>
+    <string name="shareappdetails">Share this App</string>
+    <string name="madefor">Made for myself</string>
+    <string name="nghianh" translatable="false">Nguyen Huu Nghia</string>
+    <string name="ramankit_bio">I love Android, designing and music.</string>
+    <string name="email">Send Email</string>
+    <string name="gplus">Google+</string>
+    <string name="github">GitHub</string>
+    <string name="nghianhgit" translatable="false">https://github.com/huunghiapn</string>
+    <string name="nghianhplus" translatable="false">https://plus.google.com/u/0/104207520104498938070</string>
+    <string name="replay">Replay</string>
+    <string name="term">License MIT\n\nCopyright (c) 2017-2018 Nguyen Nghia-nghianguyenit.net\n\n
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+    <string name="update_dialog_title">Discover the new version</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="upgarde_button">Upgrade</string>
+    <string name="init_complete_message">Initialization completed</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Here is a good app for interpret </string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Talk2e1 Invite</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="action_history">History</string>
+    <string name="account">Account</string>
+    <string name="title_activity_history">History</string>
+</resources>
