@@ -46,20 +46,20 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
     }
 
-    protected void showLoading() {
+    public void showLoading() {
         if (!progress.isShowing()) {
             progress.show();
         }
     }
 
-    protected void showLoading(String message) {
+    public void showLoading(String message) {
         if (!progress.isShowing()) {
             progress.setMessage(message);
             progress.show();
         }
     }
 
-    protected void hideLoading() {
+    public void hideLoading() {
         if (progress.isShowing()) {
             progress.dismiss();
         }
